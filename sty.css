@@ -1,0 +1,327 @@
+.navbar
+{
+    background-color: rgba(0, 0, 0, 0.137);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.nav-item   
+{
+    margin-right: 20px;
+}
+
+form
+{
+    padding-left: 200px;
+}
+
+.form-control
+{
+    padding-right: 350px;
+    padding-left: 50px;
+    border-color: purple;
+    border-radius: 50px;
+}
+
+.button
+{
+    position: relative;
+    top: 2px;
+    padding-left: 300px;
+    height: 30px;
+    right: 340px;
+    box-shadow: none;
+    border-color:transparent;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.goog
+{
+    border-radius: 50px;
+    border-color:black;
+    background-color: white;
+    box-sizing: border-box;
+    position: absolute;
+    top: 580px;
+    width: 481px;
+    height: 60px;
+    right: 221px;
+}
+.ppl
+{
+    border-color:black;
+    background-color: white;
+    box-sizing: border-box;
+    border-radius: 50px;
+    position: absolute;
+    width: 481px;
+    top: 659px;
+    height: 60px;
+    right: 221px
+}
+.hoo
+{
+    border-radius: 50px;
+    border-color:black;
+    background-color: white;
+    box-sizing: border-box;
+    position: absolute;
+    width: 481px;
+    top: 740px;
+    height: 60px;
+    right: 221px;
+}
+
+.grp    
+{
+    margin-top: 168px;
+}
+
+.gro
+{
+    float: left;
+}
+
+.he1
+{
+    text-align: right;
+    position: absolute;
+    width: 714px;
+    height: 192px;
+    right: 221px;
+    top: 258px;
+
+    color: #460864;
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 50;
+    font-size: 60px;
+
+}
+/* .he2
+{
+    text-align: right;
+    position: absolute;
+    width: 714px;
+    height: 192px;
+    left: 677px;
+    top: 530px;
+
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+} */
+
+.imgp
+{
+    margin-right: 5px;
+}
+
+
+.phone
+{
+    position: absolute;
+    width: 819px;
+    height: 112px;
+    right: 221px;
+    top: 449px;
+
+    text-align: right;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+}
+
+/* .rule
+{
+    position: relative;
+    top: 800px;
+}
+*/
+
+.hey
+{
+    visibility: hidden;
+}
+
+.bre {
+    margin: 132px;
+    /* border: 1px solid purple; */
+    color: #000000;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+}
+/* 
+.bre:after {
+    margin: 132px;
+    background: #ffffff;
+    content: "Key Features";
+    padding: 0 4px;
+    position: relative;
+    top: -13px;
+} */
+
+.nop
+{
+    margin: 100px auto;
+    visibility: hidden;
+}
+
+.per1
+{
+    position: relative;
+    left: 338px;
+}
+
+.per2
+{
+    position: absolute;
+    right: 338px;
+}
+
+.per3
+{
+    position: relative;
+    left: 338px;
+}
+
+.llr
+{
+    position: relative;
+    left: 780px;
+    bottom: 30px;
+}
+
+.ulr
+{
+    position: absolute;
+    right: 307px;
+}
+
+.lrr
+{
+    position: relative;
+    left: 340px;
+    bottom: 30px;
+}
+
+.urr
+{
+    position: absolute;
+    left: 307px;
+}
+
+.what1
+{
+    position: absolute;
+    right: 577px;
+    top: 1324px;
+    width: 210px;
+    height: 72px;
+
+    font-family: 'Gabriela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 36px;
+    text-transform: uppercase;
+
+    color: #000000;
+    border: 0.5px;
+}
+
+.what2
+{
+    position: absolute;
+    left: 557px;
+    top: 1854px;
+    width: 210px;
+    height: 72px;
+
+    text-align: right;
+    font-family: 'Gabriela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 36px;
+    text-transform: uppercase;
+
+    color: #000000;
+
+    border: 0.5px;
+}
+
+.what3
+{
+    position: absolute;
+    right: 577px;
+    top: 2374px;
+    width: 210px;
+    height: 72px;
+
+    font-family: 'Gabriela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 36px;
+    text-transform: uppercase;
+
+    color: #000000;
+
+    border: 0.5px;
+}
+
+.ulr1
+{
+    position: absolute;
+    right: 487px;
+    top: 1424px;
+    width: 303px;
+    height: 80px;
+
+    font-family: 'Gabriela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 1.2;
+
+    color: #000000;
+}
+
+.ulr2
+{
+    position: absolute;
+    left: 467px;
+    top: 1974px;
+    width: 303px;
+    height: 80px;
+
+    text-align: right;
+    font-family: 'Gabriela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 1.2;
+
+    color: #000000;
+}
+
+.ulr3
+{
+    position: absolute;
+    right: 487px;
+    top: 2464px;
+    width: 303px;
+    height: 80px;
+
+    font-family: 'Gabriela';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 1.2;
+
+    color: #000000;
+}
