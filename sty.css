@@ -305,7 +305,6 @@ form
     font-weight: 400;
     font-size: 21px;
     line-height: 1.2;
-
     color: #000000;
 }
 
@@ -324,4 +323,132 @@ form
     line-height: 1.2;
 
     color: #000000;
+}
+
+.cat
+{
+    margin: 3em auto;
+    padding-left: 40%;
+
+}
+
+.leftt
+{
+    position: absolute;
+    top: 300%;
+    margin-left: 12%;
+    border: 1px solid black;
+    width: 17%;
+    padding-left: 6%;
+    padding-top: 3%;
+    border-radius: 15px;
+}
+
+.middlet
+{
+    position: absolute;
+    margin-left: 42%;
+    border: 1px solid black;
+    width: 17%;
+    padding-left: 4%;
+    padding-top: 3%;
+    top: 300%;
+    /* bottom: 19.3rem; */
+    border-radius: 15px;    
+}
+
+.endt
+{
+    position: absolute;
+    margin-left: 72%;
+    border: 1px solid black;
+    width: 17%;
+    padding-left: 1.7%;
+    padding-top: 3%;
+    top: 300%;
+    /* bottom: 38rem; */
+    border-radius: 15px;    
+}
+
+.leftb
+{
+    position: absolute;
+    top: 345%;
+    margin-left: 12%;
+    border: 1px solid black;
+    width: 17%;
+    padding-left: 2%;
+    padding-top: 3%;
+    /* bottom: 29rem; */
+    border-radius: 15px;    
+}
+
+.middleb
+{
+    position: absolute;
+    margin-left: 42%;
+    border: 1px solid black;
+    width: 17%;
+    padding-left: 4.5%;
+    padding-top: 3%;
+    top: 345%;
+    /* bottom: 48.3rem; */
+    border-radius: 15px;    
+}
+
+.endb
+{
+    position: absolute;
+    margin-left: 72%;
+    border: 1px solid black;
+    width: 17%;
+    padding-left: 5%;
+    padding-top: 3%;
+    top: 345%;
+    /* bottom: 66.6rem; */
+    border-radius: 15px;    
+}
+
+.cap
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    text-align: center;
+    padding-right: 30%;
+}
+
+.caps
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    text-align: center;
+    padding-right: 63%;
+}
+
+.caph
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    text-align: center;
+    padding-right: 13%;
+}
+
+.capc
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    text-align: center;
+    padding-right: 7%;
+}
+
+.footer
+{
+    position: absolute;
+    top: 385%;
+    padding-left: 43.5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-color: rgba(190, 33, 190, 0.664);
+    width: 100%;
+    font-size: 25px;
 }
